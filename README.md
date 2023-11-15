@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming languages, basic networking skills, and oporating systems
 - 💞️ I’m looking to collaborate on projects that will be realevant to my career
 - 📫 How to reach me
-- Emahil: mohassan11714@gmail.com
+- Email: mohassan11714@gmail.com
 - Phone: (516) 703-9151
 
 <!---
